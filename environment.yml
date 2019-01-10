@@ -6,4 +6,6 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
+  - sqlalchemy
+  
   
